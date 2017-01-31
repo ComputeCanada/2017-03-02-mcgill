@@ -1,4 +1,4 @@
-Link to the Web page: [workshop_site][workshop_site]
+*Direct link to the [workshop Web site]*
 
 # workshop-template
 
@@ -259,3 +259,4 @@ or [mail us][contact].
 [rubygems]: https://rubygems.org/pages/download/
 [self-organized-workshop-form]: https://amy.software-carpentry.org/workshops/submit/
 [swc-site]: http://software-carpentry.org
+[workshop Web site]: https://computecanada.github.io/2017-03-02-mcgill
