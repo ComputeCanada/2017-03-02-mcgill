@@ -1,3 +1,5 @@
+Link to the Web page: [workshop_site][workshop_site]
+
 # workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
