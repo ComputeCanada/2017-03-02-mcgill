@@ -1,6 +1,8 @@
+# Software Carpentry Event - McGill University - March 2nd, 2017
+
 *Direct link to the [workshop Web site]*
 
-# workshop-template
+## About the Workshop Web Site Template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
